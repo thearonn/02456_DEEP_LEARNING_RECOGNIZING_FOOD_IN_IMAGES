@@ -1,0 +1,38 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>001020.jpg</filename>
+	<path>/Users/manlu/Desktop/VOC2007/001020.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fried egg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>146</ymin>
+			<xmax>718</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boiled peas</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>539</ymin>
+			<xmax>436</xmax>
+			<ymax>675</ymax>
+		</bndbox>
+	</object>
+</annotation>

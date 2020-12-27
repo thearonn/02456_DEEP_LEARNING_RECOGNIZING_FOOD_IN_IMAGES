@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>VOC2007</folder>
+	<filename>000753.jpg</filename>
+	<path>C:\Users\s172016\Downloads\dtu\deep-learning\data\Cleaned_Images_5Classes\VOC2007\000753.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1242</width>
+		<height>1242</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chopped lettuce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>276</ymin>
+			<xmax>1144</xmax>
+			<ymax>957</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chopped lettuce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>323</xmin>
+			<ymin>118</ymin>
+			<xmax>689</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+</annotation>

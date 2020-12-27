@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>VOC2007</folder>
+	<filename>002402.jpg</filename>
+	<path>/Users/meishaonv/Desktop/VOC2007/002402.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glass of milk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>552</xmin>
+			<ymin>406</ymin>
+			<xmax>809</xmax>
+			<ymax>644</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>VOC2007</folder>
+	<filename>002458.jpg</filename>
+	<path>/Users/meishaonv/Desktop/VOC2007/002458.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>506</width>
+		<height>339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glass of water</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>88</ymin>
+			<xmax>191</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>glass of water</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>270</xmin>
+			<ymin>95</ymin>
+			<xmax>444</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

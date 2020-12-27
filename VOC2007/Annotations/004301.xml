@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>VOC2007</folder>
+	<filename>004301.jpg</filename>
+	<path>C:\Users\rober\Desktop\VOC2007\004301.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1067</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slice of bread</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>72</ymin>
+			<xmax>1489</xmax>
+			<ymax>954</ymax>
+		</bndbox>
+	</object>
+</annotation>

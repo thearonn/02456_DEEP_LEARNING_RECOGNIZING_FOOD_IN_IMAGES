@@ -1,0 +1,38 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>005660.jpg</filename>
+	<path>/Users/manlu/Desktop/VOC2007/005660.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chopped lettuce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>62</ymin>
+			<xmax>307</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chopped lettuce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>364</xmin>
+			<ymin>67</ymin>
+			<xmax>576</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

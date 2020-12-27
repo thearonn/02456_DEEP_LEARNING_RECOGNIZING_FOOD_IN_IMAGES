@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>VOC2007</folder>
+	<filename>002671.jpg</filename>
+	<path>/Users/meishaonv/Desktop/VOC2007/002671.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>334</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boiled potatoes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>121</ymin>
+			<xmax>253</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>VOC2007</folder>
+	<filename>000364.jpg</filename>
+	<path>C:\Users\s172016\Downloads\dtu\deep-learning\data\Cleaned_Images_5Classes\VOC2007\000364.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>301</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glass of milk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>57</ymin>
+			<xmax>219</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>glass of milk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>45</ymin>
+			<xmax>367</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>001486.jpg</filename>
+	<path>/Users/manlu/Desktop/VOC2007/001486.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2988</width>
+		<height>5312</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>meatballs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>611</xmin>
+			<ymin>1156</ymin>
+			<xmax>2184</xmax>
+			<ymax>3501</ymax>
+		</bndbox>
+	</object>
+</annotation>

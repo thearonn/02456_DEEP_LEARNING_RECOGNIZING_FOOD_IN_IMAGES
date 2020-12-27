@@ -1,0 +1,50 @@
+<annotation verified="yes">
+	<folder>VOC2007</folder>
+	<filename>004724.jpg</filename>
+	<path>C:\Users\rober\Desktop\VOC2007\004724.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3872</width>
+		<height>2592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plain rice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>785</xmin>
+			<ymin>1882</ymin>
+			<xmax>2288</xmax>
+			<ymax>2460</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plain rice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1919</xmin>
+			<ymin>490</ymin>
+			<xmax>2919</xmax>
+			<ymax>1271</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plain rice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>538</xmin>
+			<ymin>1012</ymin>
+			<xmax>874</xmax>
+			<ymax>1601</ymax>
+		</bndbox>
+	</object>
+</annotation>

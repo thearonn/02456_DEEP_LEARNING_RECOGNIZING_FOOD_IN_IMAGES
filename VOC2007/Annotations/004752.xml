@@ -1,0 +1,74 @@
+<annotation verified="yes">
+	<folder>VOC2007</folder>
+	<filename>004752.jpg</filename>
+	<path>C:\Users\rober\Desktop\VOC2007\004752.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>5184</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fried egg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>784</xmin>
+			<ymin>1829</ymin>
+			<xmax>3066</xmax>
+			<ymax>4264</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fried egg</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>872</xmin>
+			<ymin>1</ymin>
+			<xmax>2842</xmax>
+			<ymax>836</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>slice of bread</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2066</xmin>
+			<ymin>3964</ymin>
+			<xmax>3389</xmax>
+			<ymax>5058</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>slice of bread</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1472</ymin>
+			<xmax>516</xmax>
+			<ymax>2886</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>slice of bread</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2694</xmin>
+			<ymin>947</ymin>
+			<xmax>3456</xmax>
+			<ymax>1496</ymax>
+		</bndbox>
+	</object>
+</annotation>

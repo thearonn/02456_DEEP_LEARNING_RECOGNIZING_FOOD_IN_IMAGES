@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>VOC2007</folder>
+	<filename>004711.jpg</filename>
+	<path>C:\Users\rober\Desktop\VOC2007\004711.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2259</width>
+		<height>3249</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plain spaghetti</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>1424</ymin>
+			<xmax>2005</xmax>
+			<ymax>3087</ymax>
+		</bndbox>
+	</object>
+</annotation>

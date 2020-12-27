@@ -1,0 +1,26 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>005129.jpg</filename>
+	<path>/Users/manlu/Desktop/VOC2007/005129.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4328</width>
+		<height>3068</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fried egg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1241</xmin>
+			<ymin>1334</ymin>
+			<xmax>3574</xmax>
+			<ymax>2456</ymax>
+		</bndbox>
+	</object>
+</annotation>
